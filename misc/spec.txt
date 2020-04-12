@@ -1,0 +1,19 @@
+Design, implement and test a Python application which will manage a list of names, addresses & phone numbers – Think of it as a simple “address or contact” book.
+
+Using your application, a user should be able to -
+•    Add a new entry (name, email addresses, and phone numbers)
+o    Think about the required field(s), one or more email addresses, one or more phone numbers
+•    Update (any portion of) an existing entry
+•    Delete an entry
+•    Look up contact information (by name, email address or phone number)
+o    One should be able to search by first or last name; even a portion of a name; do you know how to spell out Arnold Schwarzenegger?
+•    Display current list of contacts
+
+Requirements –
+•    Provide a menu so that user can perform all of the specified tasks (look up, add, update and delete)
+•    On exit, save a copy of the (latest) address book to a file
+•    On start, load the most current address book
+•    We are working with the latest information at all time
+
+Python Expectations
+•    Utilize functions, collections (lists and/or dictionaries) and file processing techniques
